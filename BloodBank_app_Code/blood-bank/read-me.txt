@@ -1,0 +1,11 @@
+resource-quota
+configmaps
+secrets
+deployment
+hpa
+app-service
+statefulset
+db-service
+ingress
+network policies
+pdb
